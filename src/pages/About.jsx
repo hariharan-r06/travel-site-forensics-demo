@@ -2,7 +2,7 @@ import React from 'react';
 import './About.css';
 
 const About = () => {
-  return (
+  return 
     <div className="about">
       <div className="about-header">
         <div className="container">
