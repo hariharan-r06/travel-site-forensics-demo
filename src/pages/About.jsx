@@ -1,7 +1,7 @@
 import React from 'react';
 import './About.css';
 
-const About = () => {
+const About = ( => {
   return 
     <div className="about">
       <div className="about-header">
