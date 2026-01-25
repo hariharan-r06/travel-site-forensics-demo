@@ -6,7 +6,6 @@ const About = () => {
     <div>Hiiiii</div>
    
   )
-)))))))))))))
 };
 
 export default About;
