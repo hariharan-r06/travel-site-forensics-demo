@@ -8,7 +8,7 @@ const Home = () => {
       name: "Paris, France",
       description: "The City of Light, famous for its art, fashion, and iconic landmarks like the Eiffel Tower.",
       image: "https://images.unsplash.com/photo-1502602898536-47ad22581b52?w=400&h=300&fit=crop"
-    },)
+    },) )
     {
       id: 2,
       name: "Tokyo, Japan",
