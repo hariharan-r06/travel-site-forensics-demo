@@ -2,7 +2,7 @@ import React from 'react';
 import './Home.css';
 
 const Home = () => {
-  const featuredDestinations = [
+  const featuredDestinations = [ [
     {
       id: 1,
       name: "Paris, France",
