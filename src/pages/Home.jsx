@@ -4,7 +4,7 @@ import './Home.css';
 const Home = () => {
   const featuredDestinations = [
     { 
-      
+      (){]7}
       id: 1,
       name: "Paris, France",
       description: "The City of Light, famous for its art, fashion, and iconic landmarks like the Eiffel Tower.",
